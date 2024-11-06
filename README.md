@@ -1,9 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+Con esta información, aquí tienes una versión mejorada de tu README:
 
+Argentine Honey - Página Web Corporativa
+Bienvenido al repositorio de la página web de Argentine Honey, una empresa dedicada a [descripción de la empresa, por ejemplo: la producción y exportación de miel de alta calidad]. Este proyecto está enfocado en presentar los servicios de la empresa, su historia, y facilitar la comunicación con los visitantes a través de un formulario de contacto.
+
+Tecnologías Utilizadas
+Frontend: Next.js y Tailwind CSS para un diseño moderno y receptivo.
+Hosting: Desplegado en Vercel.
+Dominio: Alojado en Don Web, con dominio personalizado en argentinehoney.com.
+Email: Integración con Resend para el envío de formularios de contacto.
+Características
+Sección de Servicios: Descripción detallada de los servicios que ofrece Argentine Honey.
+Sobre Nosotros: Historia y misión de la empresa.
+Formulario de Contacto: Permite a los visitantes enviar consultas directamente a la empresa, con el sistema de mensajería gestionado por Resend.
+Capturas de Pantalla
+Aquí puedes agregar capturas de pantalla de la página principal, la sección de servicios, y el formulario de contacto.
+
+Requisitos Previos
+Node.js y npm: Asegúrate de tener instalada una versión de Node.js (v14 o superior).
+Vercel CLI: Opcionalmente, si deseas desplegar o gestionar el proyecto desde la línea de comandos.
 First, run the development server:
 
+
+Instalacion y Ejecucion
+
+git clone https://github.com/ArgentineHoney/argentinehoney.git
+
+
+instalacion de dependencias:
+npm install
+
+Crea un archivo .env en la raíz del proyecto y añade las variables necesarias para la integración con Resend, y cualquier otra configuración requerida.
+
+iniciar servidor:
 ```bash
 npm run dev
 # or
@@ -14,23 +43,10 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrir [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Contribuciones
+Actualmente, el proyecto no acepta contribuciones externas, ya que es una página corporativa. Para cualquier sugerencia o mejora, puedes contactar al desarrollador.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contacto
+Para consultas adicionales sobre el sitio web, contacta a trade@argentinehoney.com.
