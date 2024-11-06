@@ -22,8 +22,8 @@ const Varieties = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="relative text-center text-xl sm:text-2xl md:text-4xl lg:text-[3rem] text-title font-bold my-5 mb-14 z-10 italic font-title">
           {language === 'es'
-            ? 'Variedades de Mnel y comercialización'
-            : 'Varieties Of Honey And Commercialization'}
+            ? 'Variedades de miel y comercialización'
+            : 'Varieties of honey and commercialization'}
         </h2>
 
         {/* Navegación de variedades */}
