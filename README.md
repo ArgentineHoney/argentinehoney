@@ -1,7 +1,5 @@
-
-Con esta información, aquí tienes una versión mejorada de tu README:
-
 Argentine Honey - Página Web Corporativa
+
 Bienvenido al repositorio de la página web de Argentine Honey, una empresa dedicada a [descripción de la empresa, por ejemplo: la producción y exportación de miel de alta calidad]. Este proyecto está enfocado en presentar los servicios de la empresa, su historia, y facilitar la comunicación con los visitantes a través de un formulario de contacto.
 
 Tecnologías Utilizadas
