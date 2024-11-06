@@ -1,0 +1,26 @@
+export const translations = {
+    en: {
+        contact: 'Contact',
+        description: 'If you have any questions, you can contact us by email.',
+        contactInfo: 'Contact Information',
+        email: 'Your email address',
+        message: 'Message',
+        sendMessage: 'Send Message',
+        emailPlaceholder: 'Your email',
+        messagePlaceholder: 'Write your message here...',
+        emailSentSuccess: 'Email sent successfully.',
+        emailSentError: 'Error sending email.',
+    },
+    es: {
+        contact: 'Contacto',
+        description: 'Si tienes alguna consulta, puedes contactarnos por correo electrónico.',
+        contactInfo: 'Información de contacto',
+        email: 'Tu correo electrónico',
+        message: 'Mensaje',
+        sendMessage: 'Enviar Mensaje',
+        emailPlaceholder: 'Tu correo',
+        messagePlaceholder: 'Escribe tu mensaje aquí...',
+        emailSentSuccess: 'Correo enviado exitosamente.',
+        emailSentError: 'Error al enviar el correo.',
+    },
+};
